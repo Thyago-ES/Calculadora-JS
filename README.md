@@ -1,4 +1,4 @@
-<h1 align="center>
+<h1 align="center">
   Calculadora JS
   <img align="center" alt="React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 </h1>
